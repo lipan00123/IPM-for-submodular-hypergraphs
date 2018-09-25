@@ -1,4 +1,5 @@
 Demo for IPM methods for submodular hypergraphs
+(Submodular hypergraphs: p-Laplacians, Cheeger inequalities and spectral clustering)
 
 main.m : main file to run the demo
 submodular_hypergraph_partition.cpp : C++ core IPM methods, execute mex 'submodular_hypergraph_partition.cpp' before using 
